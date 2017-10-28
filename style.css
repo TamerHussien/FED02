@@ -1,0 +1,28 @@
+body {
+    font-family: 'Roboto', serif;
+}
+
+.navbar-inverse {
+    background-color: #512DA8;
+}
+
+.thumb {
+    height: 23px;
+}
+
+.activity {
+    position: absolute;
+    right: 20px;
+    top: -3px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    padding: 3px;
+    color: blue;
+}
+
+.row-content {
+    margin: 0px auto;
+    padding: 50px 0px;
+    /* border-bottom: 1px ridge; */
+    min-height: 100px;
+}
